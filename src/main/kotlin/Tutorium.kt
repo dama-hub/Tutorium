@@ -1,2 +1,4 @@
-class Tutorium {
+
+fun main(){
+    println("Hello World!")
 }
